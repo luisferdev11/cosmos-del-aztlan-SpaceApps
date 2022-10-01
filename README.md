@@ -1,2 +1,7 @@
-# Bienvenidos Equipo
-## Este es el repo en el que vamos a trabajar
+Scripts para descargar los archivos en linux
+
+Uso:
+
+bash download.sh año
+
+bash download.sh 2022
